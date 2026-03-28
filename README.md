@@ -7,13 +7,13 @@ A multi-page interactive Power BI dashboard built on the Sample Superstore datas
 ## 📸 Dashboard Pages
 
 ### Page 1 — Sales Overview
-![Sales Overview](assets/Dashboard1.png)
+![Sales Overview](assets/Dashboard%201.png)
 
 ### Page 2 — Sales Insight (YTD Analysis)
-![Sales Insight](assets/dashboard2.png)
+![Sales Insight](assets/Dashboard%202.png)
 
 ### Page 3 — Profit Analysis
-![Profit Analysis](assets/dashboard3.png)
+![Profit Analysis](assets/Dashboard%203.png)
 
 ---
 
